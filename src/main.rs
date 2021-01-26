@@ -1,3 +1,4 @@
 fn main() {
-    println!("Hello, world!");
+    let a = 10_i8;
+    let b = 10.0;
 }
